@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # diana
 
 👸🏻 Easy way to create 🆔 unique ids.
