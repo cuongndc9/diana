@@ -47,5 +47,5 @@ MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->
